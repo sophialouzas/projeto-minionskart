@@ -3,7 +3,7 @@
   <table>
         <tr>
             <td>
-                <img src="./docs/mkart.jpg" alt="Minion Kart" width="200">
+                <img src="mkart.jpg" alt="Minion Kart" width="200">
             </td>
             <td>
                 <b>Objetivo:</b>
@@ -17,7 +17,7 @@
         <tr>
             <td style="border: 1px solid black; text-align: center;">
                 <p>Kevin</p>
-                <img src="./docs/Kevin_29.webp" alt="Mario Kart" width="60" height="60">
+                <img src="Kevin_29.webp" alt="Mario Kart" width="60" height="60">
             </td>
             <td style="border: 1px solid black; text-align: center;">
                 <p>Velocidade: 4</p>
@@ -26,7 +26,7 @@
             </td>
              <td style="border: 1px solid black; text-align: center;">
                 <p>Bob</p>
-                <img src="./docs/Bob_29.webp" alt="Mario Kart" width="60" height="60">
+                <img src="Bob_29.webp" alt="Mario Kart" width="60" height="60">
             </td>
             <td style="border: 1px solid black; text-align: center;">
                 <p>Velocidade: 3</p>
@@ -35,7 +35,7 @@
             </td>
               <td style="border: 1px solid black; text-align: center;">
                 <p>Stuart</p>
-                <img src="./docs/MTROG_Stuart.webp" alt="Mario Kart" width="60" height="60">
+                <img src="MTROG_Stuart.webp" alt="Mario Kart" width="60" height="60">
             </td>
             <td style="border: 1px solid black; text-align: center;">
                 <p>Velocidade: 2</p>
@@ -46,7 +46,7 @@
         <tr>
             <td style="border: 1px solid black; text-align: center;">
                 <p>Gru</p>
-                <img src="./docs/gru.webp" alt="Mario Kart" width="60" height="60">
+                <img src="gru.webp" alt="Mario Kart" width="60" height="60">
             </td>
             <td style="border: 1px solid black; text-align: center;">
                 <p>Velocidade: 3</p>
@@ -55,7 +55,7 @@
             </td>
             <td style="border: 1px solid black; text-align: center;">
                 <p>Dr. Nefario</p>
-                <img src="./docs/drnef.jpg" alt="Mario Kart" width="60" height="60">
+                <img src="drnef.jpg" alt="Mario Kart" width="60" height="60">
             </td>
             <td style="border: 1px solid black; text-align: center;">
                 <p>Velocidade: 3</p>
@@ -64,7 +64,7 @@
             </td>
             <td style="border: 1px solid black; text-align: center;">
                 <p>Minion Mal</p>
-                <img src="./docs/roxinho.png" alt="Mario Kart" width="60" height="60">
+                <img src="roxinho.png" alt="Mario Kart" width="60" height="60">
             </td>
             <td style="border: 1px solid black; text-align: center;">
                 <p>Velocidade: 2</p>
